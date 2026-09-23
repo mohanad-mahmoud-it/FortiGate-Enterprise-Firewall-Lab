@@ -661,8 +661,8 @@ This project documents the implementation and verification of the FortiGate Ente
 
 ### 👨‍💻 Mohanad Mahmoud
 
-<a href="YOUR-LINKEDIN-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohanad%20Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/mohanad-mahmoud-it">
+  LinkedIn
 </a>
 
 </div>
